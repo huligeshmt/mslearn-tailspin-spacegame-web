@@ -1,3 +1,4 @@
+AzurePiplines: Succeeded
 
 # Contributing
 
